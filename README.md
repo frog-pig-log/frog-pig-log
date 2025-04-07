@@ -1,4 +1,9 @@
-## Hi there 👋
+
+![frog-pig-log's GitHub stats](https://github-readme-stats.vercel.app/api?username=frog-pig-log&show_icons=true&theme=graywhite&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frog-pig-log&layout=compact)](https://github.com/frog-pig-log/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frog-pig-log&repo=github-readme-stats)](https://github.com/frog-pig-log/github-readme-stats)
 
 <!--
 **frog-pig-log/frog-pig-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
